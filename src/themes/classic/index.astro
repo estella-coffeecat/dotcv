@@ -81,7 +81,7 @@ function formatDate(dateStr?: string | null, isCurrent?: boolean) {
           <div class="social-links">
             {profile.socials.map((social) => (
               <a href={social.url} target="_blank" rel="noopener noreferrer" class="social-link">
-                {social.plattform} {social.username ? `(@${social.username})` : ''}
+                {social.platform} {social.username ? `(@${social.username})` : ''}
               </a>
             ))}
           </div>

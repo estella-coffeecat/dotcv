@@ -151,7 +151,7 @@ The `cv.json` file contains all structured profile information:
     "bio": "Brief overview about your professional background and core strengths.",
     "socials": [
       {
-        "plattform": "GitHub",
+        "platform": "GitHub",
         "url": "https://github.com/example",
         "username": "example"
       }

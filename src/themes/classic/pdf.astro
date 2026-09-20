@@ -59,7 +59,7 @@ function formatDate(dateStr?: string | null, isCurrent?: boolean) {
           <div class="social-links">
             {profile.socials.map((social) => (
               <span class="social-link">
-                {social.plattform}: {social.username ? `@${social.username}` : social.url.replace(/^https?:\/\//, '')}
+                {social.platform}: {social.username ? `@${social.username}` : social.url.replace(/^https?:\/\//, '')}
               </span>
             ))}
           </div>

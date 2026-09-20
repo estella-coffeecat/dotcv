@@ -10,12 +10,12 @@
     "bio": "Experienced software engineer passionate about clean code, web performance, and modern developer tooling. (This is example content — replace it in cv.json with your own bio!)",
     "socials": [
       {
-        "plattform": "GitHub",
+        "platform": "GitHub",
         "url": "https://github.com/example",
         "username": "example"
       },
       {
-        "plattform": "LinkedIn",
+        "platform": "LinkedIn",
         "url": "https://linkedin.com/in/example",
         "username": "example"
       }

@@ -29,7 +29,7 @@ if (avatarUrl && !avatarUrl.startsWith("http://") && !avatarUrl.startsWith("http
 
 // Social handles (e.g. Twitter/X)
 const twitterSocial = data.profile.socials?.find(
-  (s) => s.plattform.toLowerCase().includes("twitter") || s.plattform.toLowerCase().includes("x")
+  (s) => s.platform.toLowerCase().includes("twitter") || s.platform.toLowerCase().includes("x")
 );
 const twitterHandle = twitterSocial?.username
   ? twitterSocial.username.startsWith("@")

@@ -16,8 +16,7 @@ export async function loadData(directory: string = process.cwd()) {
     if (!dataFile) {
         dataFile = files.find((file) => {
             return (
-                file.startsWith("cv.example.") ||
-                file.startsWith("data.example.")
+                file.startsWith("cv.")
             );
         });
     }

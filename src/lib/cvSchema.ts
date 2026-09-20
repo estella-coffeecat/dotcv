@@ -1,7 +1,7 @@
 import { z } from 'zod';
 
 export const socialSchema = z.object({
-    plattform: z.string(),
+    platform: z.string(),
     url: z.url(),
     username: z.string().optional(),
 })

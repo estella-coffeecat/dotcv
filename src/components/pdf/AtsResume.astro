@@ -26,7 +26,7 @@ if (profile.website) contactItems.push(profile.website.replace(/^https?:\/\//, "
 
 const socialItems = (profile.socials || []).map((s) => {
   const handle = s.username ? `@${s.username}` : s.url.replace(/^https?:\/\//, "");
-  return `${s.plattform}: ${handle}`;
+  return `${s.platform}: ${handle}`;
 });
 ---
 
