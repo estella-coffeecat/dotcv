@@ -43,7 +43,6 @@ TODO.md
 .system_generated/
 AGENTS.md
 
-# Optional: Comment if you want to keep your personal CV data private in public git repos
-cv.json
+# Optional: Keep alternate personal CV formats private in public git repos
 cv.yaml
 cv.xml

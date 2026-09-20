@@ -1,0 +1,143 @@
+{
+  "profile": {
+    "name": "Estella Deng",
+    "title": "Senior Frontend Developer",
+    "email": "estella.coffeecat@gmail.com",
+    "phone": "+86 131 4567890",
+    "location": "Shanghai, China",
+    "website": "https://estella-coffeecat.github.io/",
+    "avatar": "/avatar.svg",
+    "bio": "Experienced frontend developer passionate about clean code, web performance, and modern developer tooling.",
+    "socials": [
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/estella-coffeecat",
+        "username": "Estella-CoffeeCat"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://linkedin.com/in/example",
+        "username": "Estella Deng"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "company": "ShangHai ZOE Energy Co., Ltd.",
+      "role": "Frontend Developer",
+      "location": "ShangHai, China",
+      "startDate": "2026-08",
+      "endDate": null,
+      "current": true,
+      "description": "Leading the core web development team building high-performance web applications and design systems.",
+      "highlights": [
+        "Architected scalable frontend components using Astro and TypeScript",
+        "Improved website loading performance and Core Web Vitals by 40%",
+        "Mentored junior developers and established automated testing pipelines"
+      ],
+      "technologies": ["Vue", "TypeScript", "Micro Frontends", "Tailwind CSS", "uni-app"]
+    },
+    {
+      "company": "ShangHai ANLAIYE Technology Co., Ltd.",
+      "role": "Frontend Developer",
+      "location": "ShangHai, China",
+      "startDate": "2024-06",
+      "endDate": "2026-07",
+      "current": false,
+      "description": "Built responsive web applications and interactive client portals.",
+      "highlights": [
+        "Implemented accessible (WCAG 2.1 AA compliant) UI components",
+        "Integrated REST and GraphQL APIs"
+      ],
+      "technologies": ["Wechat Mini Programs", "uni-app", "Vue", "JavaScript"]
+    },
+    {
+      "company": "BeiJing Zhaopin Technology Co., Ltd.",
+      "role": "Frontend Developer",
+      "location": "ShangHai, China",
+      "startDate": "2023-08",
+      "endDate": "2024-05",
+      "current": false,
+      "description": "Built responsive web applications and interactive client portals.",
+      "highlights": [
+        "Implemented accessible (WCAG 2.1 AA compliant) UI components",
+        "Integrated REST and GraphQL APIs"
+      ],
+      "technologies": ["Wechat Mini Programs", "Vue", "Mpx", "Flutter"]
+    },
+    {
+      "company": "FuJian Boss Software Co., Ltd.",
+      "role": "Frontend Developer",
+      "location": "FuJian, China",
+      "startDate": "2020-07",
+      "endDate": "2023-07",
+      "current": false,
+      "description": "Built responsive web applications and interactive client portals.",
+      "highlights": [
+        "Implemented accessible (WCAG 2.1 AA compliant) UI components",
+        "Integrated REST and GraphQL APIs"
+      ],
+      "technologies": ["Vue", "React", "uni-app", "jQuery"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "FuJian Normal University",
+      "degree": "Bachelor of Engineering",
+      "fieldOfStudy": "Digital Media Technology",
+      "startDate": "2016-09",
+      "endDate": "2020-06",
+      "location": "FuJian, China",
+      "highlights": [
+        "Won academic scholarships",
+        "Programming courses: C, C++, C#, Java, HTML, CSS, JavaScript",
+        "Animation courses: Spine, 3DsMax Modeling, Unity3D",
+        "Graduation project: Developed a android app for live streaming and video playback using Java and Python Flask"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Languages & Core",
+      "skills": ["TypeScript", "JavaScript", "HTML5", "CSS3", "SQL"]
+    },
+    {
+      "category": "Frameworks & Libraries",
+      "skills": ["Vue.js", "React", "Next.js", "Node.js", "Express", "Android"]
+    },
+    {
+      "category": "Tools & Infrastructure",
+      "skills": ["Git", "Docker", "Vite", "CI/CD (Jenkins)"]
+    }
+  ],
+  "projects": [
+    {
+      "title": "dotcv Example Project",
+      "description": "An open-source resume and portfolio generator powered by Astro with automatic ATS-friendly PDF exports.",
+      "url": "https://github.com/example/dotcv",
+      "technologies": ["Astro", "TypeScript", "Zod"],
+      "highlights": [
+        "Format-agnostic parsing (JSON, YAML, XML)",
+        "Zero-config PDF generation and theme system"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Example Cloud Certification",
+      "issuer": "Cloud Provider",
+      "date": "2023-05",
+      "url": "https://example.com/cert/123"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Chinese Mandarin",
+      "fluency": "Native"
+    }
+  ]
+}
